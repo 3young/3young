@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://blog.kakaocdn.net/dn/4MvYm/btsKkGjfWRI/vPIugwnvLbpIO1uOGxrA0K/img.gif"  />
+  <img height="300" src="[https://blog.kakaocdn.net/dn/4MvYm/btsKkGjfWRI/vPIugwnvLbpIO1uOGxrA0K/img.gif]"  />
 </div>
 
 ###
