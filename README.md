@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**3young/3young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Aspiring Game Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- 🔹 Unity | C#  
+- 🔹 Game Design & Development  
+- 🔹 2D/3D Game Mechanics  
+- 🔹 UI/UX for Games  
+
+---
+
+## 🎯 Current Projects
+🚀 GalexyStrike (https://github.com/3young/GalexyStrike) - A 3D game built with Unity  
+
+Check out my repositories for more projects!
+
+---
+
+## 📫 Let's Connect!
+🔗 [Blog](https://3youngworks.tistory.com/)  
+🔗 [Youtube](https://www.youtube.com/@3youngworks)  
+🔗 [GitHub](https://github.com/3young)  
+
+---
+
+Thanks for stopping by! 🚀✨
