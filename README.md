@@ -1,15 +1,14 @@
+<div align="center">
+  <img height="300" src="https://blog.kakaocdn.net/dn/4MvYm/btsKkGjfWRI/vPIugwnvLbpIO1uOGxrA0K/img.gif"  />
+</div>
+
+###
+
 <h3 align="center">Hi 👋! My name is Seyoung and I'm a passionate Game developer from Korea</h3>
 
 ###
 
 <div align="center">
-  <img height="130" src="https://blog.kakaocdn.net/dn/4MvYm/btsKkGjfWRI/vPIugwnvLbpIO1uOGxrA0K/img.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3young&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=3young&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3young&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=false" height="130" alt="languages graph"  />
 </div>
@@ -27,14 +26,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3young/3young/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3young/3young/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3young/3young/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
